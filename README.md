@@ -2,7 +2,7 @@
 
 ## Código script Bash
 
-´´´ Bash
+``` Bash
 
 #!/bin/bash
 
@@ -22,7 +22,7 @@ done
 echo "Realizando requisição CURL na porta 1337..."
 curl "$TARGET_IP:1337"
 
-´´´
+```
 
 ## Script
 
